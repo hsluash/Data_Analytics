@@ -1,10 +1,3 @@
-platform,user_id,unique_session_count
-iOS,51,2151
-iOS,9,2132
-iOS,94,2125
-Web,22,2158
-Web,27,2132
-Web,15,2127
-Android,50,2151
-Android,71,2125
-Android,62,2109
+version https://git-lfs.github.com/spec/v1
+oid sha256:439585867a6ed3cb936efe3d249cf722823f904992c6e3bab535207415250a35
+size 157
