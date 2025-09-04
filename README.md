@@ -4,8 +4,6 @@
 
 This document describes the design, assumptions, and operational guidance for a utility that ingests a large **CSV** dataset of user activity (fields: `user_id`, `session_id`, `platform`, `activity_time`, `activity_type`) and returns the **top *N* most active users on each platform** based on **unique session counts**. The output is a structured table (e.g., a DataFrame/DataTable) with columns: `platform`, `user_id`, `session_count`.
 
-> **No source code is included here**. This README focuses on *how* the solution is designed, validated, and operated at scale.
-
 ---
 
 ## Repository Structure
